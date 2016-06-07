@@ -1,0 +1,7 @@
+Channel: SIP/
+MaxRetries: 2
+RetryTime: 60
+WaitTime: 30
+Context: complic
+Extension: 201
+Priority: 1

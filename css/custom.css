@@ -1,0 +1,77 @@
+#login-page-content-wrapper{
+	text-align:center;
+}
+
+.info-box{
+	padding: 0.5em;
+}
+
+#dialer{
+	min-width: 20vw !important;
+	width: 100%;
+	min-height: 20vh;
+	text-align:center;
+	padding: 5vh 0;
+}
+
+.dialer_btn_group{
+	width: 100%;
+}
+
+.dialer_btn{
+	display:inline-block;
+	min-width: 20vw;
+	min-height: 5vh;
+	vertical-align: middle;
+	padding: 1vmin;
+	font-size: 5vmin;
+}
+
+.dialer_btn:hover{
+	background-color: rgba(0,0,0,0.5);
+	cursor: pointer;
+}
+
+#callSubmitBtn{
+	width: 100%;
+	height: 7.5vh;
+	display: block;
+	margin: 2vh 0;
+}
+
+.form-inline{
+	margin: 2vh 0.5vw;
+}
+
+.list-group-item .btn-group{
+	margin-top: 1vh;
+}
+
+#newContact{
+	margin-bottom: 1vh;
+}
+
+.stylish-input-group{
+	margin-bottom: 5vh;	
+}
+
+.stylish-input-group .input-group-addon{
+    background: white !important; 
+}
+.stylish-input-group .form-control{
+	border-right:0; 
+	box-shadow:0 0 0; 
+	border-color:#ccc;
+}
+.stylish-input-group button{
+    border:0;
+    background:transparent;
+}
+
+a .callout{
+	margin-top: 2vh;
+}
+
+#undoBtn{
+	margin-left: 0.7vw;
+}
